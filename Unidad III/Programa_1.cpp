@@ -2,18 +2,63 @@
 
 using namespace std;
 
-int main()
-{
-	string User;
-	int cantMayusculas = 0;
-	int cantMinusculas = 0;
-	int cantDigitos = 0;
-	int cantSigPunt = 0;
-	int cantAlfNu = 0;
+struct TFactura{
+	long factNumero;
+	string factCliente;
+	string factFecha;
+	double factMonto;
+	double factDescuento;
+	double factNeto;
+};
+
+int main(){
+	TFactura factura;
 	
-	cout << "Introduzca la palabra deceada:\n";
-	cin >> User;
+	cout << "Introducir los datos de la factura" << endl;
 	
-	system("pause");
+	cout << "Num Factura ";
+	cin >> factura.factNumero;
+	cin.ignore();
+	
+	cout << "Cliente ";
+	getline( cin, factura.factCliente );
+	
+	cout << "Fecha ";
+	getline( cin, factura.factFecha );
+	
+	cout << "Monto Facturado ";
+	cin >> factura.factMonto;
+	cin.ignore();
+	
+	if ( factura.factMonto >= 20000 && factura.factMonto < 30000 ) {
+		factura.factDescuento = factura.factMonto * 0.07;
+	} else if ( factura.factMonto >= 30000 && factura.factMonto < 50000 ) {
+		factura.factDescuento = factura.factMonto * 0.1;
+	} else if ( factura.factMonto >= 0000 ) {
+		factura.factDescuento = factura.factMonto * 0.14;
+	} else{
+		factura.factDescuento = 0;
+	}
+	
+	factura.factNeto = factura.factMonto - factura.factDescuento;
+	
+	cout << "------ Factura ------" << endl
+		 << "Numero "     << factura.factNumero    << '\n'
+		 << "Cliente "    << factura.factCliente   << '\n'
+		 << "Fecha "      << factura.factFecha     << '\n'
+		 << "Monto "   	  << factura.factMonto     << '\n'
+		 << "Descuento "  << factura.factDescuento << '\n'
+		 << "Monto neto " << factura.factNeto      << endl;
+		 
+	system ("pause");
 	return 0;
 }
+
+
+
+
+
+
+
+
+
