@@ -4,51 +4,26 @@ using namespace std;
 
 int main()
 {
-	int option;
 	int num1;
 	int num2;
-	int resultado;
-	
-	cout << "Bienvindo a la calculadora basica\n";
-	cout << "Que operacion desea realizar?\n";
-	cout << "1 - suma\n";
-	cout << "2 - resta\n";
-	cout << "3 - multiplicacion\n";
-	cout << "4 - diivision\n";
-	cin >> option;
-	
-	cout << "Digite Valor deseado\n";
+	int suma;
+	int resta;
+	int mult;
+	int div;
+	int res;
+
+	cout << "Digite Valor deseado: " << endl;
 	cin >> num1;
-	cout << "Digite Valor deseado\n";
+	cout << "Digite Valor deseado: " << endl;
 	cin >> num2;
-	
-	if (option == 1)
-	{
-		resultado = num1 + num2;
-		
-		cout << resultado;
-	}
-	
-	if (option == 2)
-	{
-		resultado = num1 - num2;
-		
-		cout << resultado;
-	}
-	
-	if (option == 3)
-	{
-		resultado = num1 * num2;
-		
-		cout << resultado;
-	}
-	
-	if (option == 4)
-	{
-		resultado = num1 / num2;
-		
-		cout << resultado; 
-	}
-	
+
+	suma = num1 + num2;
+	resta = num1 - num2;
+	mult = num1 * num2;
+	div = num1 / num2;
+	res = num1 / num2;
+
+	cout << "El resultado de las operaciones son: " << suma << endl << resta << endl << div << endl << res << endl;
+
 	return 0;
 }
