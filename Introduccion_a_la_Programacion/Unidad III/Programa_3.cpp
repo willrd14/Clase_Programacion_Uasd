@@ -8,7 +8,7 @@ struct Stfecha
 	unsigned int aaaa;
 	unsigned int mm;
 	unsigned int dd;
-}
+};
 
 struct Stfactura
 {
@@ -17,7 +17,7 @@ struct Stfactura
 	string nombreCliente;
 	float ventaBruta;
 	float montoImpuesto;
-}
+};
 
 int main()
 {
