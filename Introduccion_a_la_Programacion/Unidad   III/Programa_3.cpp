@@ -29,13 +29,13 @@ int main()
 	cin >> factura.numero;
 
 	cout << "Fecha\n"
-	     << " AAAA: ";
+	     << "AAAA: ";
 	cin >> factura.fecha.aaaa;
 
-	cout << "MM";
+	cout << "MM: ";
 	cin >> factura.fecha.mm;
 
-	cout << "DD";
+	cout << "DD: ";
 	cin >> factura.fecha.dd;
 	cin.ignore();
 
