@@ -1,9 +1,11 @@
-﻿public class Shirt{
-    public int shirtID = 0; //Default ID for the shirt
+using System;
+public class ShirtTest {
 
-    public String description = "-description required-";
-    //default
-    //The color codes are R=Red, G=Green, and B=Blue, U=Unset
-    public char colorCode = 'U';
-    
-}
+ static void Main () {
+
+    Shirt myShirt;
+    myShirt = new Shirt();
+
+    myShirt.displayShirtInformation();
+    }
+ }
