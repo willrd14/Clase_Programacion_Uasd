@@ -8,20 +8,20 @@
         char op='\u0000';
         double resultado=0;
         if (args.Length == 0){
-                Console.Clear();
-                Console.WriteLine("Digite Valor1: ");
-                num1 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Digite Valor2: ");
-                num2 = Convert.ToInt32(Console.ReadLine());
+            Console.Clear();
+            Console.WriteLine("Digite Valor1: ");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Digite Valor2: ");
+            num2 = Convert.ToInt32(Console.ReadLine());
             
-                Console.WriteLine("Que operacion desea hacer?");
-                Console.WriteLine("[ +, -, /, * ]");
-                entrada=(Console.ReadLine());        
+            Console.WriteLine("Que operacion desea hacer?");
+            Console.WriteLine("[ +, -, /, * ]");
+            entrada=(Console.ReadLine());        
          } else if (args.Length == 3){
-                num1 = Convert.ToDouble(args[0]);
-                num2 = Convert.ToDouble(args[2]);
-                string str1=args[1];
-                op=str1[0];            
+            num1 = Convert.ToDouble(args[0]);
+            num2 = Convert.ToDouble(args[2]);
+            string str1=args[1];
+            op=str1[0];            
                    
          }
         
