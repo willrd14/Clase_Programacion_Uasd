@@ -1,0 +1,15 @@
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\obj\Debug\net6.0\Tarea_1.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\obj\Debug\net6.0\Tarea_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\obj\Debug\net6.0\Tarea_1.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\obj\Debug\net6.0\Tarea_1.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\obj\Debug\net6.0\Tarea_1.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\bin\Debug\net6.0\Tarea_1.exe
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\bin\Debug\net6.0\Tarea_1.deps.json
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\bin\Debug\net6.0\Tarea_1.runtimeconfig.json
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\bin\Debug\net6.0\Tarea_1.dll
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\bin\Debug\net6.0\Tarea_1.pdb
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\obj\Debug\net6.0\Tarea_1.dll
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\obj\Debug\net6.0\refint\Tarea_1.dll
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\obj\Debug\net6.0\Tarea_1.pdb
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\obj\Debug\net6.0\Tarea_1.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documentos\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Unidad_2\Tarea_1\obj\Debug\net6.0\ref\Tarea_1.dll
