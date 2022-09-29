@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.0.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>80</x>
+      <y>100</y>
+      <w>210</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>class DateTwo
+--
+- day int
+- month int
+- year int
+-
++ getDay()
++ getMonth()
++ getYear()</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
