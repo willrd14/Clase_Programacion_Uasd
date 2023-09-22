@@ -1,0 +1,14 @@
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/bin/Debug/net7.0/Unidad_1
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/bin/Debug/net7.0/Unidad_1.deps.json
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/bin/Debug/net7.0/Unidad_1.runtimeconfig.json
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/bin/Debug/net7.0/Unidad_1.dll
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/bin/Debug/net7.0/Unidad_1.pdb
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/obj/Debug/net7.0/Unidad_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/obj/Debug/net7.0/Unidad_1.AssemblyInfoInputs.cache
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/obj/Debug/net7.0/Unidad_1.AssemblyInfo.cs
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/obj/Debug/net7.0/Unidad_1.csproj.CoreCompileInputs.cache
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/obj/Debug/net7.0/Unidad_1.dll
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/obj/Debug/net7.0/refint/Unidad_1.dll
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/obj/Debug/net7.0/Unidad_1.pdb
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/obj/Debug/net7.0/Unidad_1.genruntimeconfig.cache
+/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/obj/Debug/net7.0/ref/Unidad_1.dll
