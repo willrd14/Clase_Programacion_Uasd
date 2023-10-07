@@ -1,0 +1,14 @@
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\bin\Debug\net7.0\tarea1.1.exe
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\bin\Debug\net7.0\tarea1.1.deps.json
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\bin\Debug\net7.0\tarea1.1.runtimeconfig.json
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\bin\Debug\net7.0\tarea1.1.dll
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\bin\Debug\net7.0\tarea1.1.pdb
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\obj\Debug\net7.0\tarea1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\obj\Debug\net7.0\tarea1.1.AssemblyInfoInputs.cache
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\obj\Debug\net7.0\tarea1.1.AssemblyInfo.cs
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\obj\Debug\net7.0\tarea1.1.csproj.CoreCompileInputs.cache
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\obj\Debug\net7.0\tarea1.1.dll
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\obj\Debug\net7.0\refint\tarea1.1.dll
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\obj\Debug\net7.0\tarea1.1.pdb
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\obj\Debug\net7.0\tarea1.1.genruntimeconfig.cache
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Laboratorio\tarea1.1\obj\Debug\net7.0\ref\tarea1.1.dll
