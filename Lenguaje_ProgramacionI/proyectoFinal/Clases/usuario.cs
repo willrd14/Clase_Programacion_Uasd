@@ -15,9 +15,11 @@ namespace ProyectoFinal{
             Console.WriteLine("Desea registrarse?");
             Console.WriteLine("1 - Si");
             Console.WriteLine("2 - No");
-           string respuesta =  Console.ReadLine(Convert.ToInt32(respuesta));
+            registro =  Console.ReadLine(Convert.ToInt32(registro));
         }
 
-
+      public string setRegistrar(string registro){
+        
+      }
     }
 }
