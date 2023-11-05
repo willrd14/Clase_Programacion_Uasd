@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Laboratorio\\tarea1.1\\tarea1.1.csproj": {}
+    "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Laboratorio\\tarea1.1\\tarea1.1.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Laboratorio\\tarea1.1\\tarea1.1.csproj": {
+    "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Laboratorio\\tarea1.1\\tarea1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Laboratorio\\tarea1.1\\tarea1.1.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Laboratorio\\tarea1.1\\tarea1.1.csproj",
         "projectName": "tarea1.1",
-        "projectPath": "C:\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Laboratorio\\tarea1.1\\tarea1.1.csproj",
+        "projectPath": "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Laboratorio\\tarea1.1\\tarea1.1.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Laboratorio\\tarea1.1\\obj\\",
+        "outputPath": "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Laboratorio\\tarea1.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

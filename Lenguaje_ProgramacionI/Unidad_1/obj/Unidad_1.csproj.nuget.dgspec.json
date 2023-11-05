@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/Unidad_1.csproj": {}
+    "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Unidad_1\\Unidad_1.csproj": {}
   },
   "projects": {
-    "/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/Unidad_1.csproj": {
+    "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Unidad_1\\Unidad_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/Unidad_1.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Unidad_1\\Unidad_1.csproj",
         "projectName": "Unidad_1",
-        "projectPath": "/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/Unidad_1.csproj",
-        "packagesPath": "/home/williams/.nuget/packages/",
-        "outputPath": "/home/williams/Documents/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/obj/",
+        "projectPath": "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Unidad_1\\Unidad_1.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Unidad_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/williams/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
