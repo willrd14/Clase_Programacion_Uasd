@@ -3,23 +3,21 @@ using System.Collections.Generic;
 
 namespace ProyectoFinal{
 
-    public class Usuario{
+    public virtual string Registrar(string registro){
+      Registro = registro;
+      return "Usuario registrado";
+  }
 
-        private string registro;
-        private bool renovar;
-        private string pedir;
-        private int tiempo;
+  public virtual bool Renovar(short renovacion){
+      Renovar = renovacion == 1;
+      return Renovar;
+  }
 
-        public string bienvenida(){
-            Console.WriteLine("******** Bienvenido/a ********");
-            Console.WriteLine("Desea registrarse?");
-            Console.WriteLine("1 - Si");
-            Console.WriteLine("2 - No");
-            registro =  Console.ReadLine(Convert.ToInt32(registro));
-        }
+  public virtual void Pedir(string pedir) {
+      Pedir = pedir;
+  }
 
-      public string setRegistrar(string registro){
-        
-      }
-    }
+  public virtual void Tiempo(int tiempoPrestamo){
+      Tiempo = tiempoPrestamo;
+  }
 }
