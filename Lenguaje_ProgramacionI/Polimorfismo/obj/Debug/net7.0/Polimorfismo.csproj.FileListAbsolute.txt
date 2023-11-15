@@ -1,0 +1,4 @@
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Polimorfismo\obj\Debug\net7.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.CoreCompileInputs.cache
