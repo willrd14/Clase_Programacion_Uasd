@@ -10,7 +10,7 @@ class Polimorfismo{
         Geo = new triangulo(); 
         Geo.areaFiguras();  
 
-		Geo = new rectangulo(); 
+	Geo = new rectangulo(); 
         Geo.areaFiguras();  
     }
 }
