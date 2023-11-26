@@ -1,0 +1,4 @@
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\obj\Debug\net7.0\ProyectoFinal_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\obj\Debug\net7.0\ProyectoFinal_V2.AssemblyInfoInputs.cache
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\obj\Debug\net7.0\ProyectoFinal_V2.AssemblyInfo.cs
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\obj\Debug\net7.0\ProyectoFinal_V2.csproj.CoreCompileInputs.cache

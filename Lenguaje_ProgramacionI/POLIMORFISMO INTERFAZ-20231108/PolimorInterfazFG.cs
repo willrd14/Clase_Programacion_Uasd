@@ -90,37 +90,37 @@ class TRIANGULO  :  Geometria,Ifiguras
 class RETANGULO :  Geometria,Ifiguras
 {
 		
-         public void areaFiguras() 
-		 {
-			  Console.WriteLine ("\nCALCULAR AREA DEL RETANGULO");
-			 Console.WriteLine ("\nPrimer valor LARGO\n");
-			 Console.WriteLine ("Segundo valor ANCHO\n");
-			 CapturaDatos();
-				 
+        public void areaFiguras() 
+		{
+			Console.WriteLine ("\nCALCULAR AREA DEL RETANGULO");
+			Console.WriteLine ("\nPrimer valor LARGO\n");
+			Console.WriteLine ("Segundo valor ANCHO\n");
+			CapturaDatos();
+				
          resultado = (valor1 * valor2)/2;
-		 Console.WriteLine ("\nAREA DE UN RETANGULO\n");
-		 Console.WriteLine("Resultado: " + resultado );  
-         }
+		Console.WriteLine ("\nAREA DE UN RETANGULO\n");
+		Console.WriteLine("Resultado: " + resultado );  
+        }
 }
 
 
 
 class PrincipalCL {
 	
-     public static void Main() {
-		 
+    public static void Main() {
+		
 		//Definicion de la variable de referencia asociada a la interfaz
 
- Ifiguras Geo;
-		  Geo= new CIRCULO(); 
-          Geo.areaFiguras();   
-		  
-          Geo = new TRIANGULO(); 
-          Geo.areaFiguras();  
-		  
-		  Geo = new RETANGULO(); 
-          Geo.areaFiguras();  
+  Ifiguras Geo;
+        Geo= new CIRCULO(); 
+            Geo.areaFiguras();   
+        
+            Geo = new TRIANGULO(); 
+            Geo.areaFiguras();  
+        
+        Geo = new RETANGULO(); 
+            Geo.areaFiguras();  
 
-   }
-}
+    }
+  }
 }
