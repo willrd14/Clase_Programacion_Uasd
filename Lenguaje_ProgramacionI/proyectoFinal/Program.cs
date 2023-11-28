@@ -403,12 +403,6 @@ namespace ProyectoFinal{
 
             Sistema sistema = new sistema();
             sistema.sistema();
-
-            Usuario usuario = new menuUsuario();
-            usuario.menuUsuario();
-
-            Bibliotecario bibliotecario = new menuAdmin();
-            bibliotecario.menuAdmin();
         }
     }
 }

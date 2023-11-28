@@ -202,7 +202,7 @@ namespace ProyectoFinal
             Console.WriteLine("Ingrese su clave: ");
             clave = int.Parse(Console.ReadLine());
             Console.WriteLine("Bienvenido!! y gracias por registrarse.");
-            Usuario();
+            MenuUsuario();
         }
 
         public void MenuUsuario()
@@ -315,7 +315,71 @@ namespace ProyectoFinal
                     }
                     break;
 
-                // Resto de casos...
+                case 3:
+                    Console.WriteLine("Desearia ver las consolas que tenemos disponibles?");
+                    Console.WriteLine("1. Si");
+                    Console.WriteLine("2. No");
+                    int opcionesConsola = int.Parse(Console.ReadLine());
+
+                    switch(opcionesConsola){
+                        case 1:
+                            Console.WriteLine("1. PS4");
+                            Console.WriteLine("2. XBOX X/S");
+                            Console.WriteLine("3. Nintento Switch");
+                            Console.WriteLine("4. Steam Deck");
+                            int opcion3 = int.Parse(Console.ReadLine());
+
+                            if(opcion3 <= 1 && opcion3 >= 4){
+                                Console.WriteLine($"Haz elegido el videojuego {opcion3}");
+                            } else{
+                                Console.WriteLine("Opcion no valida...");
+                            }
+
+                        case 2:
+                            Console.WriteLine("Volviendo al menu......");
+                            Pedir();
+                            break;
+                    }
+                    break;
+
+                case 4:
+                    Console.WriteLine("Deseas ver las peliculas que tenemos disponibles?");
+                    Console.WriteLine("1. Si");
+                    Console.WriteLine("2. No");
+                    int opcionesPelicula = int.Parse(Console.ReadLine());
+
+                    switch (opcionesPelicula)
+                    {
+                        case 1:
+                        Console.WriteLine("1. La vida es bella");
+                        Console.WriteLine("2. El padrino");
+                        Console.WriteLine("3. Joker");
+                        Console.WriteLine("4. Rapidos & Furiosos X");
+                        int opcion4 = int.Parse(Console.ReadLine());
+
+                        if(opcion4 <= 1 && opcion4 >= 4){
+                            Console.WriteLine("Haz elegido la pelicula {opcion4} ");
+                        } else{
+                            Console.WriteLine("Opcion no valida...");
+                        }
+
+                        case 2:
+                        Console.WriteLine("Volviendo al menu....");
+                        Pedir();
+                        break;
+                    }
+                    break;
+
+                case 5:
+                Console.WriteLine("Volviendo al menu principal...");
+                MenuUsuario();
+                break;
+
+                default:
+                Console.WriteLine("Opcion incorrecta.");
+                Pedir();
+                break;
+
             }
         }
 
