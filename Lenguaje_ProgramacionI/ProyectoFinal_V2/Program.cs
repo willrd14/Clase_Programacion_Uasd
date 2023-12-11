@@ -1,11 +1,10 @@
 ﻿using System;
-using System.IO;
 
 namespace ProyectoFinal
 {
-    interface IUsuario
+    /*interface IUsuario
     {
-        void Usuario();
+        void getUsuario();
         void Registrarse();
         void MenuUsuario();
         void Pedir();
@@ -14,40 +13,43 @@ namespace ProyectoFinal
 
     interface IBibliotecario
     {
-        void Bibliotecario();
+        void getBibliotecario();
         void MenuAdmin();
         void AgregarArticulos();
         void EliminarArticulos();
         void CobrarDemora();
         void ActualizarStock();
-    }
+    }*/
 
-    class Sistema
+    class Sistema : Bibliotecario
     {
         public int option;
 
         public void sistema()
         {
-            Console.WriteLine("*************************************");
-            Console.WriteLine("*Bienvenido a la Biblioteca Nacional*");
-            Console.WriteLine("*************************************");
-            Console.WriteLine("*           Usted es? :             *");
-            Console.WriteLine("*   1. Administrador/Bibliotecario  *");
-            Console.WriteLine("*   2. Usuario                      *");
-            Console.WriteLine("*   3. Salir                        *");
-            Console.WriteLine("*************************************");
+            Console.Clear();
+            Console.WriteLine("***************************************");
+            Console.WriteLine("* Bienvenido a la Biblioteca Nacional *");
+            Console.WriteLine("***************************************");
+            Console.WriteLine("*           Usted es? :               *");
+            Console.WriteLine("*   1. Administrador/Bibliotecario    *");
+            Console.WriteLine("*   2. Usuario                        *");
+            Console.WriteLine("*   3. Salir                          *");
+            Console.WriteLine("***************************************");
             option = int.Parse(Console.ReadLine());
 
             switch (option)
             {
                 case 1:
-                    Bibliotecario bibliotecario = new Bibliotecario();
-                    bibliotecario.Bibliotecario();
+                    getBibliotecario();
+                    /*Console.WriteLine("Hola");
+                    sistema();*/
                     break;
 
                 case 2:
-                    Usuario usuario = new Usuario();
-                    usuario.Usuario();
+                    /*getUsuario();*/
+                    Console.WriteLine("Hola");
+                    sistema();
                     break;
 
                 case 3:
@@ -61,12 +63,11 @@ namespace ProyectoFinal
         }
     }
 
-    class Bibliotecario : IBibliotecario
-    {
+    class Bibliotecario {
         public string admin = "Admin";
         public int adminClave = 1234;
 
-        public void Bibliotecario()
+        public void getBibliotecario()
         {
             Console.WriteLine("Digite su usuario: ");
             admin = Console.ReadLine();
@@ -151,8 +152,7 @@ namespace ProyectoFinal
         }
     }
 
-    class Usuario : IUsuario
-    {
+   class Usuario {
         public string nombre;
         public string apellido;
         public string direccion;
@@ -161,7 +161,7 @@ namespace ProyectoFinal
         public int clave;
         public int obtion;
 
-        public void Usuario()
+        public void getUsuario()
         {
             Console.WriteLine("Usted esta registrado? : ");
             Console.WriteLine("1. Si");
@@ -334,6 +334,7 @@ namespace ProyectoFinal
                             } else{
                                 Console.WriteLine("Opcion no valida...");
                             }
+                            break;
 
                         case 2:
                             Console.WriteLine("Volviendo al menu......");
@@ -362,6 +363,7 @@ namespace ProyectoFinal
                         } else{
                             Console.WriteLine("Opcion no valida...");
                         }
+                        break;
 
                         case 2:
                         Console.WriteLine("Volviendo al menu....");
@@ -409,9 +411,17 @@ namespace ProyectoFinal
     {
         public static void Main()
         {
+            /*IBibliotecario Bibliotecario;
+            IUsuario Usuario;
+
+            Usuario = new getUsuario();
+            Usuario.getUsuario();
+
+            Bibliotecario = new getBibliotecario();
+            Bibliotecario.getBibliotecario();*/
+
             Sistema sistema = new Sistema();
             sistema.sistema();
         }
     }
 }
-

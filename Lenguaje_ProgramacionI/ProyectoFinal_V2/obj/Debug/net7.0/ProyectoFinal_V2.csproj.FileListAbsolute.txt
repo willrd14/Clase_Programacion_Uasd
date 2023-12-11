@@ -2,3 +2,13 @@ C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal
 C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\obj\Debug\net7.0\ProyectoFinal_V2.AssemblyInfoInputs.cache
 C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\obj\Debug\net7.0\ProyectoFinal_V2.AssemblyInfo.cs
 C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\obj\Debug\net7.0\ProyectoFinal_V2.csproj.CoreCompileInputs.cache
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\bin\Debug\net7.0\ProyectoFinal_V2.exe
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\bin\Debug\net7.0\ProyectoFinal_V2.deps.json
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\bin\Debug\net7.0\ProyectoFinal_V2.runtimeconfig.json
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\bin\Debug\net7.0\ProyectoFinal_V2.dll
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\bin\Debug\net7.0\ProyectoFinal_V2.pdb
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\obj\Debug\net7.0\ProyectoFinal_V2.dll
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\obj\Debug\net7.0\refint\ProyectoFinal_V2.dll
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\obj\Debug\net7.0\ProyectoFinal_V2.pdb
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\obj\Debug\net7.0\ProyectoFinal_V2.genruntimeconfig.cache
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\ProyectoFinal_V2\obj\Debug\net7.0\ref\ProyectoFinal_V2.dll
