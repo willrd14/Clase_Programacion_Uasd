@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ioPcGABv8mqKPJOyKwYvzQEFXuqpE9zqKAKTXqwxMxTEe7Y0XjIvsGFPoBgXhZIAd/I0WQMBEbGFHRCXTEPGmw==",
+  "dgSpecHash": "ABYPFKzObDjImvyJUyYwb9WGjMOtjrUQUG9G+E4IjIAFBfFnUYO6tUVOdWotu7iDAC1QmWPKIVXcgjIgvv4tJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Laboratorio\\tarea1\\tarea1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Laboratorio/tarea1/tarea1.csproj",
+  "expectedPackageFiles": [
+    "/home/williams/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/williams/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/williams/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.15/microsoft.netcore.app.host.linux-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "eBMQtv18KbWC97bHMHPD3YfvgDPyw8FSH17oLmYTG2kZkenzEA/KQM1lg+WLpw9cGdVl9ViXMFXPkQ5ocqXGuw==",
+  "dgSpecHash": "1ZnlpzxSsuZYwPta4JkJYXpqKwRNF/8LhzryC8PhKhk47A0/bJwRK1NqT4ZKASGICwLCsZNH9vhiL4cE2/X9kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Esc. De Informatica\\Desktop\\Practicas\\Practicas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Laboratorio/Practicas/Practicas.csproj",
+  "expectedPackageFiles": [
+    "/home/williams/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/williams/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/williams/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.15/microsoft.netcore.app.host.linux-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

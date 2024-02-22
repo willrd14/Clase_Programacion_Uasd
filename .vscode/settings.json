@@ -2,5 +2,12 @@
     "files.associations": {
         "iostream": "cpp"
     },
-    "editor.fontFamily": "'Fira Code', 'monospace', monospace"
+    "editor.fontFamily": "'Fira Code', 'monospace', monospace",
+    "cSpell.words": [
+        "vartest"
+    ],
+    "java.project.sourcePaths": [
+        "Lenguaje_ProgramacionII/Practicas_Solitarias",
+        "Lenguaje_ProgramacionII"
+    ]
 }

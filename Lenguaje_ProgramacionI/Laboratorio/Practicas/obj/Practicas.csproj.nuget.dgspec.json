@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esc. De Informatica\\Desktop\\Practicas\\Practicas.csproj": {}
+    "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Laboratorio/Practicas/Practicas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esc. De Informatica\\Desktop\\Practicas\\Practicas.csproj": {
+    "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Laboratorio/Practicas/Practicas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esc. De Informatica\\Desktop\\Practicas\\Practicas.csproj",
+        "projectUniqueName": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Laboratorio/Practicas/Practicas.csproj",
         "projectName": "Practicas",
-        "projectPath": "C:\\Users\\Esc. De Informatica\\Desktop\\Practicas\\Practicas.csproj",
-        "packagesPath": "C:\\Users\\Esc. De Informatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esc. De Informatica\\Desktop\\Practicas\\obj\\",
+        "projectPath": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Laboratorio/Practicas/Practicas.csproj",
+        "packagesPath": "/home/williams/.nuget/packages/",
+        "outputPath": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Laboratorio/Practicas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Esc. De Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/williams/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

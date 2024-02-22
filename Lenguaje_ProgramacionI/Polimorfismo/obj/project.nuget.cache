@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "eHYQ1oNPVv2zNx/m+mYYAxlQKVP6Eb0hKTKbdufxh11TF611HP7osZklcgbiw88nbZwyEEcN8U63f5SCUkqM2Q==",
+  "dgSpecHash": "EbKpbUwytqdfcUV62qhl1oBKVV1jlp6cwyNSvp739CQUbXmR6SM/5BWqa7VEIa55kEoTniLksIaHZ4CReECHYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Polimorfismo\\Polimorfismo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Polimorfismo/Polimorfismo.csproj",
+  "expectedPackageFiles": [
+    "/home/williams/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/williams/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/williams/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.15/microsoft.netcore.app.host.linux-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

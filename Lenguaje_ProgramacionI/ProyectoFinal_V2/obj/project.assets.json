@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\willi\\.nuget\\packages\\": {}
+    "/home/williams/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\ProyectoFinal_V2\\ProyectoFinal_V2.csproj",
+      "projectUniqueName": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/ProyectoFinal_V2/ProyectoFinal_V2.csproj",
       "projectName": "ProyectoFinal_V2",
-      "projectPath": "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\ProyectoFinal_V2\\ProyectoFinal_V2.csproj",
-      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\ProyectoFinal_V2\\obj\\",
+      "projectPath": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/ProyectoFinal_V2/ProyectoFinal_V2.csproj",
+      "packagesPath": "/home/williams/.nuget/packages/",
+      "outputPath": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/ProyectoFinal_V2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/williams/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -54,12 +54,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

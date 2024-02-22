@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "y27rmPVS2baBvHX+PAcMZeUFOlEVR3yML26di4y29GHng5sl4CNLL3jw5YEW1Bz4elhyDoKKjpTDuV3N7ZvcGw==",
+  "dgSpecHash": "tbDZLiTeERiac6uluiuvoyV/20Ds0lfNcfvNtLNKVadNKcvfQQVCxsihbYDRvd7I9g6CL7jQw6BeC8aGRxpgjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\willi\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\Unidad_1\\Unidad_1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/Unidad_1/Unidad_1.csproj",
+  "expectedPackageFiles": [
+    "/home/williams/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/williams/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/williams/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.15/microsoft.netcore.app.host.linux-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
