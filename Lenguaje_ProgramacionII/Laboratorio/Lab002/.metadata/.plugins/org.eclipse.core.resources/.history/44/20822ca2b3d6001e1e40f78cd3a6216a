@@ -1,0 +1,16 @@
+package movil;
+
+public class Retardo extends Movil{
+	private double retardo;
+	
+	public Retardo(double espacio, double tiempo, double retardo) {
+		super(espacio, tiempo);
+		this.retardo = retardo;
+	}
+	
+	@Override
+	public void calcularVelocidadFinal() {
+		this.velocidad = (this.espacio -(this.retardo * this.tiempo)) / this.tiempo;
+		this.aceleracion = this.retardo;
+	}
+}
