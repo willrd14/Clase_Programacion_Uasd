@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4Ns1PW90fn43ytu5m0bdn0pSiI8rOxpySIhIIFgjgsAF1aqlp/63YUrxZXsiHAHkNTKD2XQCktU8reKJQOPKgA==",
+  "dgSpecHash": "sQ4O+y/X8uTNjdm3Hpcf4UFhzLETzzQvFZY0rtD413OKrbVYW9IhQJZfagxkLDtitV4YcUT0/Guj0aZk/JDgdg==",
   "success": true,
-  "projectFilePath": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/proyectoFinal/proyectoFinal.csproj",
+  "projectFilePath": "C:\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\proyectoFinal\\proyectoFinal.csproj",
   "expectedPackageFiles": [
-    "/home/williams/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
-    "/home/williams/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
-    "/home/williams/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.15/microsoft.netcore.app.host.linux-x64.7.0.15.nupkg.sha512"
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
   ],
   "logs": []
 }

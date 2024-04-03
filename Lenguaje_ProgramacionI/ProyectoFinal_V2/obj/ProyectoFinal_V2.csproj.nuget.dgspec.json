@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/ProyectoFinal_V2/ProyectoFinal_V2.csproj": {}
+    "C:\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\ProyectoFinal_V2\\ProyectoFinal_V2.csproj": {}
   },
   "projects": {
-    "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/ProyectoFinal_V2/ProyectoFinal_V2.csproj": {
+    "C:\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\ProyectoFinal_V2\\ProyectoFinal_V2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/ProyectoFinal_V2/ProyectoFinal_V2.csproj",
+        "projectUniqueName": "C:\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\ProyectoFinal_V2\\ProyectoFinal_V2.csproj",
         "projectName": "ProyectoFinal_V2",
-        "projectPath": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/ProyectoFinal_V2/ProyectoFinal_V2.csproj",
-        "packagesPath": "/home/williams/.nuget/packages/",
-        "outputPath": "/home/williams/Code/Clase_Programacion_Uasd/Lenguaje_ProgramacionI/ProyectoFinal_V2/obj/",
+        "projectPath": "C:\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\ProyectoFinal_V2\\ProyectoFinal_V2.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\Clase_Programacion_Uasd\\Lenguaje_ProgramacionI\\ProyectoFinal_V2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/williams/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -51,15 +56,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
+              "version": "[7.0.16, 7.0.16]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[7.0.15, 7.0.15]"
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.16, 7.0.16]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
             }
           ],
           "frameworkReferences": {
@@ -67,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
