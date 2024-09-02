@@ -1,0 +1,15 @@
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\bin\Debug\net8.0\Ejercicio_1.exe
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\bin\Debug\net8.0\Ejercicio_1.deps.json
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\bin\Debug\net8.0\Ejercicio_1.runtimeconfig.json
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\bin\Debug\net8.0\Ejercicio_1.dll
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\bin\Debug\net8.0\Ejercicio_1.pdb
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\obj\Debug\net8.0\Ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\obj\Debug\net8.0\Ejercicio_1.AssemblyInfoInputs.cache
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\obj\Debug\net8.0\Ejercicio_1.AssemblyInfo.cs
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\obj\Debug\net8.0\Ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\obj\Debug\net8.0\Ejercicio_1.sourcelink.json
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\obj\Debug\net8.0\Ejercicio_1.dll
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\obj\Debug\net8.0\refint\Ejercicio_1.dll
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\obj\Debug\net8.0\Ejercicio_1.pdb
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\obj\Debug\net8.0\Ejercicio_1.genruntimeconfig.cache
+C:\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_I\Tarea_1.2\Ejercicio_1\obj\Debug\net8.0\ref\Ejercicio_1.dll
