@@ -1,0 +1,5 @@
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\implementacionAgregacion\obj\Debug\net8.0\implementacionAgregacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\implementacionAgregacion\obj\Debug\net8.0\implementacionAgregacion.AssemblyInfoInputs.cache
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\implementacionAgregacion\obj\Debug\net8.0\implementacionAgregacion.AssemblyInfo.cs
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\implementacionAgregacion\obj\Debug\net8.0\implementacionAgregacion.csproj.CoreCompileInputs.cache
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\implementacionAgregacion\obj\Debug\net8.0\implementacionAgregacion.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\obj\Debug\net8.0\ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\obj\Debug\net8.0\ejercicio_1.AssemblyInfoInputs.cache
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\obj\Debug\net8.0\ejercicio_1.AssemblyInfo.cs
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\obj\Debug\net8.0\ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\obj\Debug\net8.0\ejercicio_1.sourcelink.json
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\bin\Debug\net8.0\ejercicio_1.exe
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\bin\Debug\net8.0\ejercicio_1.deps.json
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\bin\Debug\net8.0\ejercicio_1.runtimeconfig.json
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\bin\Debug\net8.0\ejercicio_1.dll
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\bin\Debug\net8.0\ejercicio_1.pdb
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\obj\Debug\net8.0\ejercicio_1.dll
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\obj\Debug\net8.0\refint\ejercicio_1.dll
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\obj\Debug\net8.0\ejercicio_1.pdb
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\obj\Debug\net8.0\ejercicio_1.genruntimeconfig.cache
+C:\Users\willi\Code\Clase_Programacion_Uasd\Lenguaje_ProgramacionI\2024-2\Unidad_III\ejercicio_1\obj\Debug\net8.0\ref\ejercicio_1.dll
