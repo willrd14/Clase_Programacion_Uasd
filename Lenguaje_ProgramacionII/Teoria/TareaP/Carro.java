@@ -21,7 +21,8 @@ public class Carro {
     }
 
     public void calcularAntiguedad() {
-        this.antiguedad = java.time.Year.now().getValue() - this.año;
+        int añoActual = 2026;                 
+        this.antiguedad = añoActual - this.año; 
     }
 
     public void mostrarInformacion() {
