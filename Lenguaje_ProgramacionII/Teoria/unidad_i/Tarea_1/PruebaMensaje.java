@@ -1,4 +1,4 @@
-package Teoria.unidad_i.Tarea_1;
+package unidad_i.Tarea_1;
 
 public class PruebaMensaje {
 
