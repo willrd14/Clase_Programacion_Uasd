@@ -1,4 +1,4 @@
-package Teoria.unidad_i.Tarea_2;
+package unidad_i.Tarea_2;
 
 public class Shirt {
     public int shirtID = 5;
